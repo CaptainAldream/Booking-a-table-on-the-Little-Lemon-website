@@ -34,3 +34,9 @@ type='date' required/>
       </select>
       </div>
       </fieldset>
+      </form>
+      </section>
+      </header>
+    );
+};
+export default BookingForm;
