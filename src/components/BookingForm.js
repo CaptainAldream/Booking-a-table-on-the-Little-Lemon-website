@@ -33,6 +33,9 @@ type='date' required/>
       {availableTimes}>{availableTimes}</option>})
       </select>
       </div>
+      <div className='bntReceive'>
+      <input aria-label='On Click' type='submit' value={"Make Reservation/s"}/>
+      </div>
       </fieldset>
       </form>
       </section>
